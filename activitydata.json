@@ -1,0 +1,337 @@
+[
+    {
+        "sentence": "Running quickly.",
+        "action_words": ["running"]
+    },
+    {
+        "sentence": "Cooking dinner.",
+        "action_words": ["cooking"]
+    },
+    {
+        "sentence": "Playing football.",
+        "action_words": ["playing"]
+    },
+    {
+        "sentence": "Reading quietly.",
+        "action_words": ["reading"]
+    },
+    {
+        "sentence": "Swimming fast.",
+        "action_words": ["swimming"]
+    },
+    {
+        "sentence": "Hiking slowly.",
+        "action_words": ["hiking"]
+    },
+    {
+        "sentence": "Painting carefully.",
+        "action_words": ["painting"]
+    },
+    {
+        "sentence": "Writing letters.",
+        "action_words": ["writing"]
+    },
+    {
+        "sentence": "Dancing happily.",
+        "action_words": ["dancing"]
+    },
+    {
+        "sentence": "Practicing daily.",
+        "action_words": ["practicing"]
+    },
+    {
+        "sentence": "Whispering softly.",
+        "action_words": ["whispering"],
+        "volume": "softly"
+    },
+    {
+        "sentence": "Laughing loudly.",
+        "action_words": ["laughing"],
+        "volume": "loudly"
+    },
+    {
+        "sentence": "Brushing teeth vigorously.",
+        "action_words": ["brushing"],
+        "force": "vigorously"
+    },
+    {
+        "sentence": "Brushing teeth gently.",
+        "action_words": ["brushing"],
+        "force": "gently"
+    },
+    {
+        "sentence": "Stretching gently.",
+        "action_words": ["stretching"],
+        "force": "gently"
+    },
+    {
+        "sentence": "Skipping happily.",
+        "action_words": ["skipping"],
+        "mood": "happily"
+    },
+    {
+        "sentence": "Skipping slowly.",
+        "action_words": ["skipping"],
+        "speed": "slowly"
+    },
+    {
+        "sentence": "Drawing meticulously.",
+        "action_words": ["drawing"],
+        "precision": "meticulously"
+    },
+    {
+        "sentence": "Drawing quickly.",
+        "action_words": ["drawing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Sweeping vigorously.",
+        "action_words": ["sweeping"],
+        "force": "vigorously"
+    },
+    {
+        "sentence": "Sweeping slowly.",
+        "action_words": ["sweeping"],
+        "speed": "slowly"
+    },
+    {
+        "sentence": "Mopping thoroughly.",
+        "action_words": ["mopping"],
+        "thoroughness": "thoroughly"
+    },
+    {
+        "sentence": "Mopping quickly.",
+        "action_words": ["mopping"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Gardening diligently.",
+        "action_words": ["gardening"],
+        "effort": "diligently"
+    },
+    {
+        "sentence": "Gardening leisurely.",
+        "action_words": ["gardening"],
+        "speed": "leisurely"
+    },
+    {
+        "sentence": "Sketching carefully.",
+        "action_words": ["sketching"],
+        "precision": "carefully"
+    },
+    {
+        "sentence": "Sketching rapidly.",
+        "action_words": ["sketching"],
+        "speed": "rapidly"
+    },
+    {
+        "sentence": "Chopping vegetables quickly.",
+        "action_words": ["chopping"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Chopping vegetables carefully.",
+        "action_words": ["chopping"],
+        "precision": "carefully"
+    },
+    {
+        "sentence": "Knitting patiently.",
+        "action_words": ["knitting"],
+        "mood": "patiently"
+    },
+    {
+        "sentence": "Knitting quickly.",
+        "action_words": ["knitting"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Fixing the car meticulously.",
+        "action_words": ["fixing"],
+        "precision": "meticulously"
+    },
+    {
+        "sentence": "Fixing the car quickly.",
+        "action_words": ["fixing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Jogging briskly.",
+        "action_words": ["jogging"],
+        "speed": "briskly"
+    },
+    {
+        "sentence": "Jogging leisurely.",
+        "action_words": ["jogging"],
+        "speed": "leisurely"
+    },
+    {
+        "sentence": "Polishing shoes thoroughly.",
+        "action_words": ["polishing"],
+        "thoroughness": "thoroughly"
+    },
+    {
+        "sentence": "Polishing shoes quickly.",
+        "action_words": ["polishing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Typing precisely.",
+        "action_words": ["typing"],
+        "precision": "precisely"
+    },
+    {
+        "sentence": "Typing furiously.",
+        "action_words": ["typing"],
+        "force": "furiously"
+    },
+    {
+        "sentence": "Sewing carefully.",
+        "action_words": ["sewing"],
+        "precision": "carefully"
+    },
+    {
+        "sentence": "Sewing quickly.",
+        "action_words": ["sewing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Folding clothes neatly.",
+        "action_words": ["folding"],
+        "precision": "neatly"
+    },
+    {
+        "sentence": "Folding clothes quickly.",
+        "action_words": ["folding"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Ironing clothes carefully.",
+        "action_words": ["ironing"],
+        "precision": "carefully"
+    },
+    {
+        "sentence": "Ironing clothes quickly.",
+        "action_words": ["ironing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Washing dishes thoroughly.",
+        "action_words": ["washing"],
+        "thoroughness": "thoroughly"
+    },
+    {
+        "sentence": "Washing dishes quickly.",
+        "action_words": ["washing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Carving wood skillfully.",
+        "action_words": ["carving"],
+        "precision": "skillfully"
+    },
+    {
+        "sentence": "Carving wood quickly.",
+        "action_words": ["carving"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Measuring ingredients precisely.",
+        "action_words": ["measuring"],
+        "precision": "precisely"
+    },
+    {
+        "sentence": "Measuring ingredients quickly.",
+        "action_words": ["measuring"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Whistling loudly.",
+        "action_words": ["whistling"],
+        "volume": "loudly"
+    },
+    {
+        "sentence": "Whistling softly.",
+        "action_words": ["whistling"],
+        "volume": "softly"
+    },
+    {
+        "sentence": "Sharpening knives carefully.",
+        "action_words": ["sharpening"],
+        "precision": "carefully"
+    },
+    {
+        "sentence": "Sharpening knives quickly.",
+        "action_words": ["sharpening"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Wrapping gifts neatly.",
+        "action_words": ["wrapping"],
+        "precision": "neatly"
+    },
+    {
+        "sentence": "Wrapping gifts quickly.",
+        "action_words": ["wrapping"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Mixing ingredients thoroughly.",
+        "action_words": ["mixing"],
+        "thoroughness": "thoroughly"
+    },
+    {
+        "sentence": "Mixing ingredients quickly.",
+        "action_words": ["mixing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Slicing bread carefully.",
+        "action_words": ["slicing"],
+        "precision": "carefully"
+    },
+    {
+        "sentence": "Slicing bread quickly.",
+        "action_words": ["slicing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Vacuuming carpet thoroughly.",
+        "action_words": ["vacuuming"],
+        "thoroughness": "thoroughly"
+    },
+    {
+        "sentence": "Vacuuming carpet quickly.",
+        "action_words": ["vacuuming"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Mowing the lawn evenly.",
+        "action_words": ["mowing"],
+        "precision": "evenly"
+    },
+    {
+        "sentence": "Mowing the lawn quickly.",
+        "action_words": ["mowing"],
+        "speed": "quickly"
+    },
+    {
+        "sentence": "Feeding pets regularly.",
+        "action_words": ["feeding"],
+        "frequency": "regularly"
+    },
+    {
+        "sentence": "Feeding pets carefully.",
+        "action_words": ["feeding"],
+        "precision": "carefully"
+    },
+    {
+        "sentence": "Watering plants daily.",
+        "action_words": ["watering"],
+        "frequency": "daily"
+    },
+    {
+        "sentence": "Watering plants thoroughly.",
+        "action_words": ["watering"],
+        "thoroughness": "thoroughly"
+    }
+]
